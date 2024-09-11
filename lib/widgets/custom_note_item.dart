@@ -12,10 +12,6 @@ Navigator.push(context, MaterialPageRoute(builder: (context){
 return const EditNoteView();
 }),);
 
-
-
-
-
       },
       child: Container(
         padding: const EdgeInsets.only(left: 16,top: 26,bottom: 24),
